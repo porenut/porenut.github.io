@@ -1,0 +1,30 @@
+{
+  "tags": {
+    "0": "search",
+    "1": "site",
+    "2": "video"
+  },
+  "links": {
+    "0": {
+      "tags": [
+        0,
+        1
+      ],
+      "link": "google.com"
+    },
+    "1": {
+      "tags": [
+        0,
+        1
+      ],
+      "link": "duckduckgo.com"
+    },
+    "2": {
+      "tags": [
+        1,
+        2
+      ],
+      "link": "youtube.com"
+    }
+  }
+}
